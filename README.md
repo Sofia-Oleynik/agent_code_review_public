@@ -13,6 +13,8 @@ This project implements an AI-powered code review agent designed for educational
 - ⏱️ Rate limiting (max 1 request per minute)
 - 📧 Email alerts for system errors
 
+**Demo Repository:** [test_code_review_agent](https://github.com/Sofia-Oleynik/test_code_review_agent/pull/2)
+
 ## ✨ Features
 
 - **GitHub Integration:** Webhook handler for pull request events
@@ -286,6 +288,8 @@ The system logs:
 - ⏱️ Ограничение частоты запросов (макс. 1 запрос в минуту)
 - 📧 Email-уведомления об ошибках системы
 
+**Демонстрационный репозиторий:** [test_code_review_agent](https://github.com/Sofia-Oleynik/test_code_review_agent/pull/2)
+
 ## ✨ Возможности
 
 - **Интеграция с GitHub:** Обработчик вебхуков для событий Pull Request
@@ -540,5 +544,3 @@ python app.py
 - Детали ошибок
 - Попытки активности
 - Активность репозиториев
-
-**Демонстрационный репозиторий:** [test_code_review_agent](https://github.com/Sofia-Oleynik/test_code_review_agent/pull/2)
