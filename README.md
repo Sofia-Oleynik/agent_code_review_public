@@ -1,8 +1,5 @@
 # 🤖 AI Agent for Automated Code Review of Student Assignments
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sofia-Oleynik/agent_code_review)
-[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-
 An intelligent agent that automatically reviews student code, evaluates assignments against specified criteria, and provides structured feedback via GitHub Pull Request comments.
 
 ## 📋 Description
@@ -275,9 +272,6 @@ The system logs:
 -------------------------------------------
 
 # 🤖 ИИ-агент для автоматической проверки кода студенческих работ
-
-[![GitHub](https://img.shields.io/badge/GitHub-Репозиторий-181717?style=for-the-badge&logo=github)](https://github.com/Sofia-Oleynik/agent_code_review)
-[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
 Интеллектуальный агент для автоматической проверки студенческого кода, оценки заданий по заданным критериям и предоставления структурированной обратной связи через комментарии в Pull Request на GitHub.
 
